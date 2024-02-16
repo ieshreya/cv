@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
       "A data analyst who turns boring data into actionable insights and draw meaningful patterns from it.",
   // avatarUrl: "https://api.dicebear.com/7.x/thumbs/svg?seed=Luna&backgroundColor=f1f4dc&shapeColor=f1f4dc",
-  avatarUrl: "https://github.com/ieshreya/cv/blob/main/src/images/shreya.png?raw=true",
+  avatarUrl: "https://github.com/ieshreya/cv/blob/main/src/images/shreya2.png?raw=true",
 
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
